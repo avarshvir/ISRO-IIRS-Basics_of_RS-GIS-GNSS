@@ -70,55 +70,57 @@ Definition: Passive sensors rely on natural sources of energy (such as sunlight)
 
 Examples:
 
-Photographic Camera:
+- - Photographic Camera:
 Captures images using visible light, much like traditional cameras. It records the sunlight reflected from objects.
-Optical Scanner:
+- - Optical Scanner:
 Measures reflected light and breaks it into various bands of the electromagnetic spectrum. These sensors are used in remote sensing for mapping.
-Across-Track Scanner (Whiskbroom):
+- - - Across-Track Scanner (Whiskbroom):
 Scans the Earth's surface perpendicular to the satellite’s motion by sweeping back and forth.
 Example: Landsat MSS (Multispectral Scanner).
-Along-Track Scanner (Pushbroom):
+- - - Along-Track Scanner (Pushbroom):
 Scans the Earth along the satellite’s path using a linear array of detectors.
 Example: Landsat TM (Thematic Mapper).
-Thermal Scanner:
+- - Thermal Scanner:
 Detects infrared radiation emitted by objects, which is a measure of their heat.
 Example: Used for mapping land and sea temperatures, detecting forest fires, etc.
-B. Active Sensors
+
+- B. Active Sensors
 Definition: Active sensors emit their own source of energy and measure the reflected or backscattered signal to form images.
 
 Examples:
 
-SAR (Synthetic Aperture Radar):
+- - SAR (Synthetic Aperture Radar):
 A form of radar used to create high-resolution images by transmitting microwaves and measuring their reflection.
 Can capture images day or night and through clouds.
 Example: RADARSAT, Sentinel-1.
-LiDAR (Light Detection and Ranging):
+- - LiDAR (Light Detection and Ranging):
 Uses laser pulses to measure distances by timing the return of the light that reflects off the surface.
 Often used for topographical mapping and forestry applications.
 Example: Airborne LiDAR systems for terrain mapping.
-2. Non-Imaging Sensors
+
+### 2. Non-Imaging Sensors
 Non-imaging sensors do not produce detailed images but instead measure specific characteristics like radiation intensity, altitude, or distances.
 
-A. Passive Sensors
+- A. Passive Sensors
 Definition: Passive non-imaging sensors measure natural energy emitted or reflected by objects.
 
 Examples:
 
-Spectroradiometers:
+- - Spectroradiometers:
 Measure the intensity of different wavelengths of electromagnetic radiation (across multiple spectral bands).
 Used for monitoring vegetation, atmospheric properties, and water quality.
 Example: MODIS (Moderate Resolution Imaging Spectroradiometer) on NASA's Terra and Aqua satellites.
-B. Active Sensors
+- B. Active Sensors
 Definition: Active non-imaging sensors emit their own energy and detect the reflected or backscattered signals to measure specific properties.
 
 Examples:
 
-Laser Distance Meter:
+- - Laser Distance Meter:
 Measures distances by emitting a laser beam and calculating the time it takes for the beam to reflect back.
 Example: Used in surveying, engineering, and topography.
-Laser Water Depth Meter:
+- - Laser Water Depth Meter:
 Measures the depth of water bodies by emitting laser pulses and timing their reflection from the water surface and bottom.
 Example: Used in bathymetric studies and hydrographic surveys.
-Microwave Altimeter:
+- - Microwave Altimeter:
 Measures altitude by timing the return of microwave signals reflected off the Earth's surface.
 Example: Jason-3 satellite uses microwave altimeters for ocean topography.
