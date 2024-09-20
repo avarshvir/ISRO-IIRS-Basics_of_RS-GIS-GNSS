@@ -124,3 +124,25 @@ Example: Used in bathymetric studies and hydrographic surveys.
 - - Microwave Altimeter:
 Measures altitude by timing the return of microwave signals reflected off the Earth's surface.
 Example: Jason-3 satellite uses microwave altimeters for ocean topography.
+
+<hr>
+
+### Across Track Scanner(Whiskboom)
+- Dwell Time = Scan rate per line/No. of cells per line.
+= 2X10^-2 sec/2000 cells = 1X10^-5
+
+### Along Track Scanner(Pushboom)
+- Dwell Time = Cell dimension/Velocity.
+= 10m cell^-1/200 m.sec^-1 = 5X10^-2 sec.cell^-1
+
+### High Resolution Imaging Mode
+- Time Delay Integration
+- Step & Stare
+
+### Resolution
+<p>In remote sensing, resolution refers to the level of detail that can be captured by a sensor.</p>
+**four resolution of RS:**
+- Spatial : Spatial resolution refers to the size of the smallest object or feature that can be resolved by the sensor on the ground.
+- Spectral : Spectral resolution refers to the ability of a sensor to distinguish between different wavelengths or spectral bands of electromagnetic radiation.
+- Radiometric : Radiometric resolution refers to the sensor’s ability to distinguish between slight differences in energy (brightness or reflectance) levels.
+- Temporal : Temporal resolution refers to the frequency at which a satellite or sensor revisits and captures imagery of the same location on the Earth's surface.
